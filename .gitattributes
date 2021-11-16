@@ -6,7 +6,7 @@
 .editorconfig   text    eol=lf
 .gitattributes  text    eol=lf
 .gitignore      text    eol=lf
-.project		text	eol=lf
+.project		text	eol=crlf
 .pylintrc       text    eol=lf
 SConscript		text	eol=lf
 *.hpp			text	eol=lf
